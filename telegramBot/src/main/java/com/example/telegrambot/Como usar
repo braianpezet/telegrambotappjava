@@ -1,0 +1,4 @@
+Para probar esta aplicacion hay que configurar el bot de telegram con
+application.properties
+Para usar de manera lacal usar ngrok y copiar la URL en telegrambot.webHookPath
+ngrok debe estar configurado con el puerto que usa intelij en mi caso localhost:8080
